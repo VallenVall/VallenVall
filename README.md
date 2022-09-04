@@ -1,5 +1,4 @@
 - # Sobre mim
-- 
 - 👋 Olá, meu nome é @VallenVall
 - :+1: Meu email de contato é vallentina.ribeiro@escola,pr.gov.br
 - 👀 Estou interessada em aprender a progrmar novas linguagens.
